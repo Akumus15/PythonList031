@@ -4,5 +4,5 @@ deve apresentar os dados anteriormente informados.
 '''
 
 nome =  input("Qual é o seu nome ? ")
-sexo = input("Qual é o seu genêro ? ")
-print("O seu nome é ", nome, "e o seu genêro é ", sexo)
+genero = input("Qual é o seu genêro ? ")
+print("O seu nome é ", nome, "e o seu genêro é ", genero)
